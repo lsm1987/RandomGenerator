@@ -1,0 +1,28 @@
+html {
+	padding:0px;
+	margin:0px;
+	height:100%;
+}
+
+body {
+	background-color:rgba(30, 126, 220, .2);
+	padding:0px;
+	margin:0px;
+	height:100%;
+}
+
+#main {
+	display: inline-block;
+	background-color:rgb(254, 254, 254);
+	padding:10px;
+}
+
+#text {
+	width: 400px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#menu {
+	text-align: right;
+}
